@@ -39,7 +39,7 @@ jobs:
   build-linux-x64:
     
     runs-on: ubuntu-latest
-    container: ubuntu:18.04
+    container : ubuntu:18.04
     
     steps:
       
